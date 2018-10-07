@@ -1,8 +1,8 @@
 # voltify-api
 
-[![Build Status](https://travis-ci.org/GerardoGallegos/voltify-cli.svg?branch=master)](https://travis-ci.org/GerardoGallegos/voltify-cli)
+[![Build Status](https://travis-ci.org/GerardoGallegos/voltify-api.svg?branch=master)](https://travis-ci.org/GerardoGallegos/voltify-api)
 
-> API rest for Voltify app
+> API rest for Voltify app made with featherjs.
 
 ## License
 
