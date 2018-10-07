@@ -39,6 +39,7 @@
     "mongodb-core": "^3.1.5",
     "mongoose": "^5.3.1",
     "serve-favicon": "^2.5.0",
+    "slugify-mongoose": "^1.0.2",
     "winston": "^3.1.0"
   },
   "devDependencies": {
